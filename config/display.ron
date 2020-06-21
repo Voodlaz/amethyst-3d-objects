@@ -1,0 +1,4 @@
+(
+  title: "amethyst-3d",
+  dimensions: Some((3000, 3000)),
+)
